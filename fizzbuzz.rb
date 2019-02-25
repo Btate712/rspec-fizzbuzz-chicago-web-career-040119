@@ -10,5 +10,3 @@ def fizzbuzz(input)
     return nil
   end
 end
-
-  
